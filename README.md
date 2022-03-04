@@ -1,2 +1,2 @@
 # odin-recipes
-I will be making a simple website with various links to a few recipes
+Simple website utilizing HTML with various links to a few yummy recipes
